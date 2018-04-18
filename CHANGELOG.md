@@ -1,3 +1,8 @@
+
+## v2.10.3
+
+- feature Daemon 监听 axm:monitor:delete 移除 metrics 功能
+
 ## v2.10.2 ( Thu Mar 29 2018 13:06:11 GMT+0200 (CEST) )
 
 

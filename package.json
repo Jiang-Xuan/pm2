@@ -1,7 +1,7 @@
 {
-  "name": "pm2",
+  "name": "15v-pm2",
   "preferGlobal": true,
-  "version": "2.10.2",
+  "version": "2.10.3",
   "engines": {
     "node": ">=0.12"
   },
@@ -11,82 +11,10 @@
     "example": "./examples"
   },
   "author": {
-    "name": "Strzelewicz Alexandre",
-    "email": "alexandre@keymetrics.io",
-    "url": "https://keymetrics.io"
+    "name": "Jiang-Xuan",
+    "email": "645762213@qq.com",
+    "url": ""
   },
-  "maintainers": [
-    {
-      "name": "tknew",
-      "email": "strzelewicz.alexandre@gmail.com"
-    },
-    {
-      "name": "soyuka",
-      "email": "soyuka@gmail.com"
-    },
-    {
-      "name": "wallet77",
-      "email": "wallet77@gmail.com"
-    },
-    {
-      "name": "vmarchaud",
-      "email": "contact@vmarchaud.fr"
-    }
-  ],
-  "contributors": [
-    {
-      "name": "Alex Kocharin",
-      "email": "alex@kocharin.ru"
-    },
-    {
-      "name": "Soyuka",
-      "email": "soyuka@gmail.com"
-    },
-    {
-      "name": "Joni Shkurti",
-      "email": "jonishkurti90@gmail.com"
-    },
-    {
-      "name": "James Ide"
-    },
-    {
-      "name": "Jun Tjatse",
-      "email": "thisnamemeansnothing@gmail.com"
-    },
-    {
-      "name": "Xu Jingxin",
-      "email": "sailxjx@gmail.com"
-    },
-    {
-      "name": "Ben Postlethwaite",
-      "email": "post.ben.here@gmail.com"
-    },
-    {
-      "name": "Devo.ps",
-      "email": "contact@devo.ps"
-    },
-    {
-      "name": "Bret Copeland",
-      "email": "bret@atlantisflight.org"
-    },
-    {
-      "name": "John Hurliman",
-      "email": "jhurliman@jhurliman.org"
-    },
-    {
-      "name": "TruongSinh Tran-Nguyen",
-      "email": "i@truongsinh.pro"
-    },
-    {
-      "name": "Michael Hueuberger",
-      "email": "michael.heuberger@binarykitchen.com"
-    },
-    {
-      "name": "Chris Wiggins",
-      "email": "chris@chriswiggins.co.nz"
-    }
-  ],
-  "homepage": "http://pm2.keymetrics.io/",
   "description": "Production process manager for Node.JS applications with a built-in load balancer.",
   "main": "index.js",
   "types": "types/index.d.ts",
@@ -196,11 +124,11 @@
     "gkt": "https://tgz.pm2.io/gkt-1.0.0.tgz"
   },
   "bugs": {
-    "url": "https://github.com/Unitech/pm2/issues"
+    "url": "https://github.com/Jiang-Xuan/pm2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Unitech/pm2.git"
+    "url": "git://github.com/Jiang-Xuan/pm2.git"
   },
   "license": "AGPL-3.0"
 }
